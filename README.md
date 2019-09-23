@@ -10,3 +10,5 @@ Eftersom att det är svårt måla upp en plan på exakt hur min kod kommer se ut
 
 ## **Första steget**
 Det första jag kommer att koda för programmet kommer att vara ett spel där det kommer upp ett x antal ord på rad. Användaren ska då skriva orden som står på skärmen på så snabb tid som möjligt men ändå skriva rätt.
+
+Min kod kommer att läggas upp på denna webbplats då det underlättar att jobba på koden vart jag än är. det är även simpelt att uppdatera denna text under kodandets gång.
